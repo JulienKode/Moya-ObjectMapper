@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
     ss.source_files = "Source/ReactiveSwift/*.swift"
     ss.dependency "Moya-ObjectMapper/Core" 
     ss.dependency "Moya/ReactiveSwift", '11'
-    ss.dependency "ReactiveSwift", "~> 3"
+    ss.dependency "ReactiveSwift", "~> 4"
    end
 
 end
